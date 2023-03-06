@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    left: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #dcdcdc;
+}
+
+.avatar{
+    border-radius: 20px;
+}
+
+.header-text-name{
+    margin: 10px 0px 10px 0px;
+}
+
+.header-text-description{
+    margin: 15px 0px 15px 0px;
+}
+
+.about-me{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
