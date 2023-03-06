@@ -1,16 +1,15 @@
 # Daniil Bersenev 
-===
 ## Beginner Frontend developer
-===
+![avatar](C:\Users\Daniil\Desktop/123.jpg)
 ## Contact information
 
-E-mail: Infinitesslaughter@gmail.com
-Telegram: @ty8w8
-Git: @ty8w8
+1. E-mail: Infinitesslaughter@gmail.com
+2. Telegram: @ty8w8
+3. Git: @ty8w8
+4. Discord: #7509
+## About myself
 
-===
-
-## About Myself
+Hey-ho, I'm 25 y.o. production engineer in HeidelbergCement. Like my job, but wanna be web developer tbh. Its will be hard like tasks on Codewars, but I do my best! 
 
 ## Skills
 
@@ -30,5 +29,6 @@ var number = function(busStops){
 }
 ```
 ## Languages 
-Russian - Native
-English - B1
+1. Russian - Native
+2. English - B1
+
